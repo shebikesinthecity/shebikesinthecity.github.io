@@ -167,8 +167,12 @@ a.twitter {
   background-image: url(images/twitter.svg);
 }
 
-a.youtube {
-  background-image: url(images/youtube.png);
+a.linkedin {
+  background-image: url(images/linkedin.svg);
+}
+
+a.github {
+  background-image: url(images/github.svg);
 }
 
 a.social:hover {
