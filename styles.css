@@ -108,6 +108,10 @@ header .profile-image:hover {
   border-radius: 6px;
 }
 
+.card-image{
+  max-width: 90%;
+}
+
 .card:hover {
   border-color: #ff99ff;
 }
